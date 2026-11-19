@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T03:05:12.522734Z",
+  "generated_at": "2026-11-19T03:18:24.895688Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 85,
+  "new_articles": 92,
   "errors": [],
   "articles": [
     {
@@ -95,6 +95,15 @@
       "category": "Mercados",
       "published_at": "2026-11-19T02:10:44Z",
       "collected_at": "2026-11-19T02:55:44.664651Z"
+    },
+    {
+      "id": "af9c3c1630e38f7539e3afca",
+      "title": "‘Nothing Wrong With NVDA Or AI Trade’: Kenny Polcari Says Fed’s Inflation Concerns Are The Bigger Market Risk - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM3hwb0M2TTBPVVprQkxURVdJRWZKNlVEb0Uwa25oM3o2RmhEVDBaYWczMkc3X0Z3ZmhpOHRxeFFONE1lZm8zd21vSmpiUXBiWWtsWnlwZUhVaWJIeDFGQ2kwZC1yWENHT0tvejlEZC1SSlg4MXNNcVNtcWFVdDJiODR2eHJZeEJaYUM2UzlQcVdTTWxWQW5hc3RoTGxKSEpZZUNKbU5VM2lKcVZqbGNPYnNJWENjMVJYRkJWaW9pQVVWaXFNUmVsbU0wNS1wdzM0TWd0Mk90bWdVemp1WU1vZVRBZ2JicnNtY3FPa19lNTNHZkNuZEsxb1oydw?oc=5",
+      "source": "TradingView",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T02:10:00Z",
+      "collected_at": "2026-11-19T03:18:24.895688Z"
     },
     {
       "id": "a444c93b3864fced20a302c2",
@@ -790,6 +799,15 @@
       "collected_at": "2026-11-19T02:55:44.664651Z"
     },
     {
+      "id": "b819ff439ba69960b9338288",
+      "title": "Proponen que el salario mínimo en México suba a 345 pesos diarios en 2027 - El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3VaaEZlX2F4S2hyM053aWZIM2w4U0otMXZ4U1JuVEY0NDZfYXA4ajNqZk8taDhFc1h3NXN2dmRyVHFONGc2SjNCX2FBOTM0azJ4M255UTU3Tzc1bzRJSVI2bml3NlZZVkt3OEpSdmVzTm5PSHRVYldYeVpaeVp4TFR2VHpVbUhWUkFJN1hSbjZrTVoxMGV6X01HZmJqbTdXNjBUN2xZUlVsWmVYcVAwX2RMdzJzN0tFdFZHaA?oc=5",
+      "source": "El Sol de México",
+      "category": "Política",
+      "published_at": "2026-11-18T19:40:06Z",
+      "collected_at": "2026-11-19T03:18:24.895688Z"
+    },
+    {
       "id": "2719d1512c5afe959a65a022",
       "title": "Huye a Estados Unidos exfiscal Zuany, tras órdenes de aprehensión por caso CIA en Chihuahua - RegeneraciónMX",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHZudy16QmJRcklJWHJDQ1E3ZkcwVnEwQ05Pd3VtUjZKUGg0MGhTQXV0THB3TXI3cE95YUtNekotQjFSQXU2dl9abS12Nk5TemI0UXlNT2tTT0U5U192cVlRX2lGOGpDOWFJXzQwTmJlemhzOGVhODhpaDEwbXpmdlUxeVlOUkNLemJaZ0l2OU03SmdNU0p0a0dfV1ZJS25Kd2RTb1pJSU5lY2E4TWJISWVIeWNUdw?oc=5",
@@ -806,6 +824,15 @@
       "category": "México",
       "published_at": "2026-11-18T19:33:03Z",
       "collected_at": "2026-11-19T02:55:44.664651Z"
+    },
+    {
+      "id": "441fdb6c9d4f946a448365fe",
+      "title": "Fed Governor Barr Signals Need for Further Rate Hikes to Curb Inflation; 0.25% Move Eyed for December Meeting - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uQWhyaDVzTXFpUG5UZXJjZ0NiXzJwY2Z5UkQzOXVHQ2I5cnVlZ0NTZzhuWWNDaW9acjlzejMwYTBhbkVRX0RMMVhiX2poeWxybmZDb0k1WHpkbl9zSmM0SDc1WjhIcklYaFRXTDF6RU5ZdUVGWHc?oc=5",
+      "source": "BigGo Finance",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T19:25:00Z",
+      "collected_at": "2026-11-19T03:18:24.895688Z"
     },
     {
       "id": "8d7597f1e0240a08c8b79fad",
@@ -878,6 +905,15 @@
       "category": "Estados Unidos",
       "published_at": "2026-11-18T19:07:49Z",
       "collected_at": "2026-11-19T02:55:44.664651Z"
+    },
+    {
+      "id": "563eeed556d907ab65161583",
+      "title": "Banxico: México paga comisión de 27 millones de dólares al FMI tras la reducción de su línea de crédito - Diario de Yucatán",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWDhvdXdmeVJMeW5KYzFTN0ZqTGVkaHp5V3dZRk5YSUUycU4wekVvUWtxQWl5Snl6ZFh6YVZxRUNPNUJmWWNrV0hSV0R0djdqOV9RRVFNc29UdUw5SjQ2WmNneFRTVy1tb1pCNEgyM1l4ZWxUcndsbFltVnR4cnhiTVZvS1dPTElYSXVhRzFPemZJMnlHZllwazU3QUYzZm5DcmkwMTc5NTY5SE5SX1NJWEplT3Q2WjdCcEY2NFBPWVcwU1NkTmNmcGVZT1NjWWFwdlNZNGNaSkt0ZFNmMDZzd3BJSU94cHVZTl9WSQ?oc=5",
+      "source": "Diario de Yucatán",
+      "category": "México",
+      "published_at": "2026-11-18T19:00:07Z",
+      "collected_at": "2026-11-19T03:18:24.895688Z"
     },
     {
       "id": "c0c4ef66e0d9307c0568eff5",
@@ -1013,6 +1049,15 @@
       "category": "Mercados",
       "published_at": "2026-11-18T17:35:47Z",
       "collected_at": "2026-11-19T02:55:44.664651Z"
+    },
+    {
+      "id": "dd769ee628b8304ae4530ba0",
+      "title": "ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeldHbV9nVFFxRTFsZE1mV3JwRllFTm55eHhWcjdlUXJYOGxZeXdqWkNoREU1UHZTNEVjSDZkU1FnRi1fNzRYUVpqOUw2eWJlcGlQVkFSYzJmalF4bm1scEFsSEFHZHBkYjdDTUZMRnJJMHhXTTNsV1pFNEVuel81REdLSFpIaTVBSmxfOTNibEswOW8?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T17:31:03Z",
+      "collected_at": "2026-11-19T03:18:24.895688Z"
     },
     {
       "id": "cc0e7a92efa226b77b329fd1",
@@ -1706,6 +1751,15 @@
       "category": "Mercados",
       "published_at": "2026-11-18T06:41:00Z",
       "collected_at": "2026-11-19T02:55:44.664651Z"
+    },
+    {
+      "id": "3c1ee67f9472372fd3fff27d",
+      "title": "APEC 2026: Canadá y México ante China - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0gyR2hMdGhGZTZWaUtkMHBKN0ROUm93eUdreXhzVHlLd2FIWF9FVHJNdVRuSmppS2tOVVdHampGQ280dTNYSnA5ZVR5MDBvdEdPQTl3R1VtRnBJLXZnMV9vRm4tTk9DWUZ2VmlsMHk5U3NzQ1A0c1RfdzBGQ2JjbnFKVXdTb1lObHB0S2pYU0I0RjZC0gGaAUFVX3lxTFBhNG5LbVU5c0hwYnkyQ1BrdGhZSkp3eHBDR1ZIOUtDQXFfX2Ruc2t5YnZJQmVtelZHWmdBRVZsRXI1V18xZjl6YVdVLTNEVUZ4SFBLM2Fwc3dLTU9iRWZGRUx0QWo1US1DNWpoN3B5MUhIMWJBODQ4RTA1b1ZNdzRNa1J0bnR3Z0l0eERaSlV3a1VMeWIxTmxBS0E?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-18T06:28:03Z",
+      "collected_at": "2026-11-19T03:18:24.895688Z"
     },
     {
       "id": "ef0a51206fbb4d37ada5f3c0",
@@ -2563,6 +2617,15 @@
       "collected_at": "2026-11-19T02:55:44.664651Z"
     },
     {
+      "id": "2aecd2d0c8a4547d5fc4c7b2",
+      "title": "Fed’s Musalem Says Several Rate Hikes Likely Needed Before Spring 2027 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlE5MkU2R0ZHZmVES3lZRXd0anBhR25DRkJOcTM5UU1INjc2VXVuMTFZSG9ONE9HTUdCTGpiVnE2bTdxNmQ5a0JuZWZwVlNFM3dKc0JiZ3U4OElZRWtkLTFOU20tMGZDNVRWMFk5YjdsTzlZdkxNRGV5dl9QWjF3YW5SMV9RdVJUUGNqcmpuSzhNT25wYllhWVcwSXIzYU5acEZkRmlMbUdiQl91NXpnbG95M2NiVmdCYjVuUlFJdw?oc=5",
+      "source": "WSJ",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-17T13:14:00Z",
+      "collected_at": "2026-11-19T03:18:24.895688Z"
+    },
+    {
       "id": "dfbd459354503ad2dc61ce41",
       "title": "German investor morale rises more than expected in November, ZEW finds - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVHlKcUF5YkJhTnUyWlpxTEpzUDNxQ3FVMGZlUFNtcE5yX0diRkQzSlN0MlZiZjhkWmFYTzg0UktZOElMQjhnOURndEtiYTN6TGJRQ25zdDJUWXA4dTJNTzRyQl9YTUcweGVEX0Uxa1NvX1NFZExiUExpRWxaNGRiWE5yc0hSS2luaThDd2VWY0RCZ0xlMFR6RlVnYW9DQ0p5UXRFX1FtcUx6ckVaZ25reWY5Ulg2UQ?oc=5",
@@ -2641,69 +2704,6 @@
       "source": "CNBC / Politics",
       "category": "Política",
       "published_at": "2026-11-17T11:22:54Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "fa49644999356d8d2e97cb0f",
-      "title": "CoreWeave Answered the Biggest Question About AI Stocks. Now Nvidia Has to Confirm It. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVzZjUENLaFJGZFYwYU55TVA2aHNUTUZtbm5WemlRT2lEa3ljTzA1NElvVXI1eDYtODR1MU9MQnVZUm9JOENvLU5DWm5Jb2FBbVBybFl6TmdsUzZtZkp1S0JRMThIZXU2WGlianR6blNJemJveWJkUmxsSjRqeGRBeHdJdkN2QUVNZ2w1SlNfamJFNEsweFVJeURLRUZydnh6UG13?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T11:03:01Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "659a2d85aa22cdfbc606a11e",
-      "title": "JD Vance says he'll decide 'sometime next year' about 2028 presidential run",
-      "url": "https://www.cnbc.com/2026/11/17/jd-vance-2028-presidential-run-decision.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-17T10:40:56Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "fb78f582dad299f026ad4088",
-      "title": "Euro zone economy seen growing moderately, France outlook weakest -Commission - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc2k3bXJscXRZNnlPa3VxNTREb3djN2dXWVhFS1hwQ1ZFUkU0OF9KWnlLdFRPNHF1VEpVRGd2cmhJTGFDTnd4QTN4R0pmWmRtTkV2S1JuUTlBUTNCMzZxVDk0cEJWMzE5TjBVaVJwaFpJdzZ3TmRuWUNxeHpwSTJvbTZ4d0hQY284dmk0QWtLM0ZaQ0x0aHRZV1NxbHdaTzAxSTV3QmdsaExSTlJwb002RmZEYU93Qlk2?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-17T10:08:37Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "a4261dadb1700386ef00d52d",
-      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-17T10:08:32Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "b9a5de5a8d43325a48b4adde",
-      "title": "Precio del dólar en México hoy, martes 17 de noviembre de 2026: tipo de cambio USD a MXN, cuánto vale y cotización de Banxico - El Comercio Perú",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUzBTY2N2RVd4YlVrR09EMl9YX2g5RUV0ZlR5dFN1WmFteC1LSnBHTmxkVnU5Zm9MWTJFcHdHZlQyNGhCNEl3emN5VUFyWUZ1TDlpZWtiMXExUThJVjVNVFFuM0RFZ2JFU3lwTnJZTEtQT2pfOGdKTUpMQ3A5eG9CNjRMRTVHaHhicVU0RkZCTzE5Ti1YaGl3YlFrQUstWF83ZTAteGJqSmR6WEVlXzdQZmt2VktKbTdVVVY1X2NLLWFVUUlISFBEMHVXYUZfZV95bE4wTFdfRS13ZmZwSHdrRlQ2NTEzOTBRTFdfNWVNLV8zaWZwU1ZrZ2xHeTB6aFVZb2k1U2pDc3gwTFlhT1NMT2t4VQ?oc=5",
-      "source": "El Comercio Perú",
-      "category": "México",
-      "published_at": "2026-11-17T10:00:00Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "b8cc1d5c48100697446724cc",
-      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-      "source": "CNBC / Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T08:52:45Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "04e18326e15dfe448ac736aa",
-      "title": "Treasury yields moderate as investors parse retail sales data - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xcWR1OGh2RVFmcDRsR1JtUDJUVFhqWFVjQ3R2V1ZjSFpqWmNtRXQweHFac0UxYllNRzJ2akQ0R2Q3dTFpTkhGeWFMS3d4MFNIX1pMWW5oUWxyQzh2bV8zcG91MlVCNm5kNlVXN3dmMG1pVWYycHFR0gF8QVVfeXFMTlpoUmZfei1Qbjl3OU9tR3A4MmlvbXNIR3FXa1JaRW5CMm5qQmgwcVBRMlFGa1BFc243bG5vR1hJVjBhYVJvMDVmNmstX2M3ME93cjZUbXc5dE5IWHJ5bndwRlJOLUNBTDBEY08tTUVMdG12c0VpemV3VUQtSw?oc=5",
-      "source": "CNBC",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-17T08:23:51Z",
       "collected_at": "2026-11-19T02:55:44.664651Z"
     }
   ]
