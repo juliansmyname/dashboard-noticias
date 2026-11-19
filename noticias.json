@@ -1,11 +1,38 @@
 {
-  "generated_at": "2026-11-19T02:55:44.664651Z",
+  "generated_at": "2026-11-19T03:05:12.522734Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 381,
+  "new_articles": 85,
   "errors": [],
   "articles": [
+    {
+      "id": "561bd1ef2632f2e0d0983061",
+      "title": "SpaceX’s December Lock-Up Frees Another 17% of Its Shares. Here’s What October’s Unlock Did to the Stock.",
+      "url": "https://www.fool.com/investing/2026/11/18/spacex-s-december-lock-up-frees-another-17-of-its-shares-here-s-what-october-s-unlock-did-to-the-stock/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:55:02Z",
+      "collected_at": "2026-11-19T03:05:12.522734Z"
+    },
+    {
+      "id": "6024d6913a32e2791d1f2dc1",
+      "title": "Asian stocks drop as Anthropic's record IPO fails to reassure",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-drop-anthropics-record-025108034.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:51:08Z",
+      "collected_at": "2026-11-19T03:05:12.522734Z"
+    },
+    {
+      "id": "41df100269998dda4a3ae4ff",
+      "title": "Coatue Builds $1.8 Billion Salesforce Stake, Its Biggest New Bet, as the Stock Sinks 17%",
+      "url": "https://247wallst.com/investing/2026/11/18/coatue-builds-1-8-billion-salesforce-stake-its-biggest-new-bet-as-the-stock-sinks-17/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T02:47:06Z",
+      "collected_at": "2026-11-19T03:05:12.522734Z"
+    },
     {
       "id": "4f0ccdd92e1cdda3a7310b8e",
       "title": "Dow Jones Futures Rise; Anthropic IPO Prices High, Palo Alto And Everpure Rally On Earnings",
@@ -2005,6 +2032,15 @@
       "collected_at": "2026-11-19T02:55:44.664651Z"
     },
     {
+      "id": "5b71542ef1e2fa143a60d594",
+      "title": "Stocks fall but Nvidia rebound lifts sentiment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHJDZmFjdW9lam5TbVQ0SExud2d3RmVmNmYyYmdtXzdiUWxwSlNyRXZjTElYb2gwWWZLQmIxMDBoN0pvb2tSYzZtVVIzeGp5dGxIWU1ZRWpmaFUyN1NwRUVWOUpSTDN6dUZwQUkwRXM0M2lVSHJpM0FyamV2anZZaEFMalNBbHViT3JISXV5VTh4azdkeDZNRWJmODJmVzVYY3BseExzWlU?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-17T22:07:35Z",
+      "collected_at": "2026-11-19T03:05:12.522734Z"
+    },
+    {
       "id": "6c4e0a49d719cc3948eb7375",
       "title": "Trading Day: AI trade unwind continues, but Nvidia beats - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT2ZrUktoVWQtYzQtd2l5djM3SDJoaUNkQ0tOU3hoaUhCWGxVejNQWElMVDA1YmZqYXQtWmZkWHpxRjFGQWYtT3lIaVNmUllaMG5Dd3Q0eGs2VWhLU2xJUzN4Q2ZFa3pPQVNENmlDNFRFR2JtcVR2SXFyZHZJdG1sdVQyMllPU1VpS2t3LVZrSmRKaUdPSkpn?oc=5",
@@ -2120,6 +2156,15 @@
       "category": "Mercados",
       "published_at": "2026-11-17T19:30:00Z",
       "collected_at": "2026-11-19T02:55:44.664651Z"
+    },
+    {
+      "id": "4d7670528c3bc89531497ad7",
+      "title": "Dollar lower after mixed US data, stays near April 2025 high - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0Z6TDRSbVp3QXhMLUlLR3Vaam5aam1wVW9LV2tGSmJPZVFaU2dCNnhzVjJSY25lNWR3N1lmOFVPeno3UWpkamE2SDVxOVVfcUxUY0RxYTd5cm8wYzg0M1FVZTdrVXU2RXJzbXFmNElPb0ZqVVJ2WUxhS1B5WXVhRFFobUJPb2FaNzdsdlFkNmludUtnSXY3eUJoZ0J5UXFJdTlQUVhR?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-17T19:23:39Z",
+      "collected_at": "2026-11-19T03:05:12.522734Z"
     },
     {
       "id": "1f4b7c26eae8df0bdc31e692",
@@ -2659,51 +2704,6 @@
       "source": "CNBC",
       "category": "Estados Unidos",
       "published_at": "2026-11-17T08:23:51Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "73d639075775c94b6074dd4a",
-      "title": "Déficit fiscal de México superaría 4% del PIB por sexto año consecutivo en 2027 - EL CEO",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2xlQzh1RHAxZjdtY05oMEhqcGVHcmNOLUg4QjJ6eXF0Z2N6S1hWWGxHSDZScGZueXlIZlRnN3FBVkJwbGFGeldIeDdGbGU5Tk9OMFNPZEh5di1QOGplMzdySUJtTnNiaGJjMW50MzV1eUk3akNGc2ZTWTl0YnRxa0ZXWW5GR01TSlpMN0VIZHZRY256NFRmVUVESQ?oc=5",
-      "source": "EL CEO",
-      "category": "Política",
-      "published_at": "2026-11-17T08:03:29Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "114fb5e494d93e86342ad7d8",
-      "title": "Inflación en México podría acercarse al 4% en diciembre por aumento del consumo - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObzg5YzYtWFZxN1Z5S2JLYjM0VW1YY3Z6dC16Ulk2dWNKZ1NNc3EweUxUTGF5SWRZZmdXcWg4Z211V0JKTEVwdTUwdVlWVnJ6MjNFYlhuNFdWRlEyMV9MUWdoZzhjQlotd2s0VVFyc1hFZlZBMFhkLVNRdmpEbEpWbWw3aGpXRzlOa2h4dDh4alZYYUQ1X0J4VWVOTkJMRG1oclR6UXB3MkxiUzhJelZSQmdlU1dnYlhqVDkybVFKWDdRbDJGaUE?oc=5",
-      "source": "El Sol de México",
-      "category": "México",
-      "published_at": "2026-11-17T07:35:47Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "c2f50ce27a75bdc021538f79",
-      "title": "CSP: misión en China - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX2F4RGdPZ1d1ZUd2YVhZeV9LbTBaQUZ2N2w4b2stbFBQVWNLUkQ2czJ2VDh0R2xZZmF5X0RFYzlYQTBsUDUyRlRma0x6MThJNEhWZlZmX0VaRVlhMGRKNVdkcVROTHdQUnNpNkZiWFI1R2RleDlscDNnQ21DLURhajlEa9IBiAFBVV95cUxQcU5qbmJpVGVhdWlFYnV5bkRKbzdwTUtYME0ycFUya2w1M2xzOVJ0MHI5dU9TY0RLQXBPOUx2YTA2QVVTaUFRNWQ3TXZQNkV0N3VlZ3RpNm5xWURVUmpIaW9GWi0xTU1FdERXYzk5bk5Nd1BlUGlSWFN1c0ZHZ2VLWGxpdjdqTVNN?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-17T07:29:33Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "480ed4d6d950bd728d76889d",
-      "title": "Inflation Is Sending US Bond Yields Higher Again. Here’s Why We’re Not Worried - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFpadnR4a3lSYlpoZ3lSTnowS0phdkpBd2p1MS1tUGV5UnpmWlhwdjNVUVdjdFhtV2RTR09ldW5NazF2bUx6bkRoOEF3VWU3bHBiY2JvNXhqMkVNRW1wbTlfOVU2NXZPcmRQd0E5ZmtlTldUZllwUmdwODlwQjdia05yZ1pjMWc1WEtKNDQzaFFlOC1MazQwQVVjRTRJU01jcnNaSVFTUlJlX2tZMGtPbno4aTJrd21UajktLQ?oc=5",
-      "source": "Morningstar",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-17T07:07:37Z",
-      "collected_at": "2026-11-19T02:55:44.664651Z"
-    },
-    {
-      "id": "bbc1d434c78a4350c5c38cd0",
-      "title": "EXCLUSIVE: India may limit leveraged stock bets to curb volatility, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW0tQWdjMmJOOUJOV3RYNzByeUVmLTZNYTRKTGszNHBqTVR2OHlrZnBLQXN6UlhFeFhOMGRBblFpSTJjcVJVckMybVJDYnhWU01VanpQOWNkVXFhZmlrYXM0empDNE5aXzBSQUVnSnBTSDlYZ3JJNURScmdzSFM5ei1VTTdiZVVhOTA4RjdOMHF0VkQ4bHhVdFZRek91d0NXVjlxVkh1UmMxWDZMMmpfelJ0aHhubWRu?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-17T06:55:00Z",
       "collected_at": "2026-11-19T02:55:44.664651Z"
     }
   ]
